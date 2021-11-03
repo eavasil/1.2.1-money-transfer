@@ -1,0 +1,8 @@
+#муссорные файлы 
+# папки 
+tmp/
+
+_backup
+Thumbs.db
+.DS_Store
+*_old
